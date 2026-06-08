@@ -22,5 +22,4 @@ flutter run
 ```
 
 ## Author
-Fortune Dev — [Watch Demo on YouTube](https://youtube.com/shorts/vkqHcuAGvYY?si=aRL3-sHlHq82ikUK)
-               [Watch Demo on YouTube](https://youtube.com/shorts/ofSvlzyPAlY?si=J0GJmavK8z3ueuUn)
+Fortune Dev — [Watch Demo on YouTube](https://youtube.com/shorts/ofSvlzyPAlY?si=J0GJmavK8z3ueuUn)
