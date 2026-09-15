@@ -2,7 +2,7 @@
 
 A Flutter CRUD notes app with clean architecture and dependency injection.
 
-## Features
+## The Features
 - Create, Read, Update, Delete notes
 - Notes persist after app restart
 - Repository pattern (Dependency Injection)
